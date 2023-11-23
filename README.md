@@ -6,10 +6,9 @@ Será implementado um Mini Simulador de Rede Social, cujo objetivo será efetuar
 
 # O QUE SERÁ AVALIADO 
 software e relatório final contendo a descrição dos seguintes tópicos:
-# Introdução 
-Descrever a sua solução para o problema, incluindo:
-# Estrutura de Dados compatível com um número indefinido de entradas.
- UML - Diagrama de Classe
+# Introdução descrever a sua solução para o problema, incluindo:
+# Estrutura de Dados
+compatível com um número indefinido de entradas. UML - Diagrama de Classe
 # Desenvolvimento 
 Explicar o funcionamento dos principais métodos, incluindo código fonte com trechos do programa. 
 Principalmente utilizar/explicar: Classe Abstrata, Herança, Interface e Polimorfismo. Padrões de Projeto utilizados.
